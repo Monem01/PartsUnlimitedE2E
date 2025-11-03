@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        //My third chage
         public int CategoryId { get; set; }
 
         [Required]
